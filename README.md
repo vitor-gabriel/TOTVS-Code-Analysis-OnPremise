@@ -2,7 +2,7 @@
 
 Este repositorio existe para automatizar a configuração do TOTVS Code Analisys em sua maquina local, leia os passos com cuidado, qualquer duvida só entrar em contato comigo pelo [E-mail](mailto:vitor@r2vkconsultoria.com.br) ou pelo [LinkedIn](https://www.linkedin.com/in/vitor-gabriell/).
 ***
-### Passos para intalação
+### Passos para instalação
 
 1. Baixe o [Docker](https://www.docker.com/).
 2. Faça a instalação do Docker e abra o programa.
