@@ -1,8 +1,7 @@
+version: "3.7"
 services:
   advpl-code-analyzer:
     image: totvsengpro/advpl-tlpp-code-analyzer:latest
-    ports:
-      - "8000:8000"
     volumes:
       - ./fontes:/tmp
       - ./fontes/includes:/tmp/includes
