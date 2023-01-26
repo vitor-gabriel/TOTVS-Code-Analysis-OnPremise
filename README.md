@@ -1,4 +1,4 @@
-## Docker Composer do TOTVS Code Analisys OnPremise
+## Docker Composer do TOTVS Code Analysis OnPremise
 
 Este repositorio existe para automatizar a configuração do TOTVS Code Analisys em sua maquina local, leia os passos com cuidado, qualquer duvida só entrar em contato comigo pelo [E-mail](mailto:vitor@r2vkconsultoria.com.br) ou pelo [LinkedIn](https://www.linkedin.com/in/vitor-gabriell/).
 ***
