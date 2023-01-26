@@ -1,0 +1,32 @@
+
+[SONARQUBE] [RUNALONE] [Ver: 1.7] Release Aug 2022
+ Executando runAlone 
+
+|----------------------Parametros-----------------------------|
+ --> Root path: /bin/src/
+ --> Includes path: /bin/includes/
+ --> Json?: true
+ --> showPPOResult?: false
+ --> Json path: /bin/output/output.json
+|-------------------------------------------------------------|
+
+ Iniciando parsing...
+ 
+ 
+Iniciando Parsing.../bin/src/teste.prw
+runInDll: OK
+PPO try 1: 
+
+{
+  "teste.prw": [
+    {
+      "severity": "ERROR",
+      "line": "10",
+      "rule": "CA2004-2",
+      "message": "Regra: CA2004-2: Formato de leitura n├úo permitido do Metadados - SX3. | Conte├║do: Direct Access not allowed in data dictionary. - Linha: 10"
+    }
+  ]
+}
+Sucesso!
+1Fim!
+ADVPL Preprocessor: Precompilation of file /bin/src/teste.prw ok.
