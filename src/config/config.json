@@ -1,5 +1,6 @@
 {
     "breakList": [],
+    "ignoreList": [],
     "breakOnError": true,
     "printSonarFullOutput": true,
     "printInternalWarnings": false

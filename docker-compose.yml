@@ -3,8 +3,7 @@ services:
   advpl-code-analyzer:
     image: totvsengpro/advpl-tlpp-code-analyzer:latest
     volumes:
-      - ./fontes:/tmp
-      - ./fontes/includes:/tmp/includes
-      - ./fontes/config:/bin/conf
-      - ./fontes/output:/bin/output
+      - ./src/fontes:/tmp
+      - ./src/config:/bin/conf
+      - ./src/output:/bin/output
     command: [ "/usr/bin/sonar-pipeline", "-v", "/tmp" ]
